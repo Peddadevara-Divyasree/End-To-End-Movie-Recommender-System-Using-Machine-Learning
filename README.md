@@ -1,1 +1,1 @@
-# End-To-End-NETFLIX-Movie-Recommender-System-Using-Machine-Learning
+# End-To-End Movie-Recommender-System-Using-Machine-Learning
